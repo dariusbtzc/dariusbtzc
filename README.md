@@ -2,7 +2,7 @@
 💁‍♂️ An engineer / data scientist with expertise in Machine Learning (ML), Artificial Intelligence (AI) and Analytics <br>
 ❤️ Passionate about leveraging data-driven solutions to optimise processes and drive value for businesses <br>
 💻 Technical skills: Python, SQL, R, Microsoft Excel, Hadoop, Docker, Kubernetes, AWS <br>
-⚒ Python libraries: NumPy, Pandas, NLTK, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PySpark
+⚒ Python libraries: NumPy, Pandas, NLTK, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, PyTorch, PySpark
 
 
 ## Find me around the web 🌏
