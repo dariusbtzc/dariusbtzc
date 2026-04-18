@@ -6,5 +6,4 @@
 
 
 ## Find me around the web 🌏
-- Telling stories at <a href="https://dariuswrites.blog/">dariuswrites</a>
 - Let’s connect: <a href="https://www.linkedin.com/in/darius-tay/">LinkedIn</a>
