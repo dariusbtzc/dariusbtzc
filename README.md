@@ -1,4 +1,4 @@
-<img src="https://github.com/dariusbtzc/dariusbtzc/blob/4159f80c637c084ce64f7dd162b2437df1463add/GitHub%20profile%20banner%20v3.png" alt="banner that says Darius Tay - data scientist, machine learning engineer, content creator">
+<img src="https://github.com/dariusbtzc/dariusbtzc/blob/main/GitHub%20profile%20banner.png" alt="Banner that says Darius Tay - data scientist, ai/ml engineer, data engineer">
 💁‍♂️ An engineer / data scientist with expertise in Machine Learning (ML), Artificial Intelligence (AI) and Analytics <br>
 ❤️ Passionate about leveraging data-driven solutions to optimise processes and drive value for businesses <br>
 💻 Technical skills: Python, SQL, R, Excel, Hadoop, Spark, Docker, Kubernetes, AWS, Google Cloud, Snowflake <br>
